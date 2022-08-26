@@ -1,27 +1,37 @@
-# Apm
+# Angular Product Management Demo App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+This is a product management application using Angular.
 
-## Development server
+guide source:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+https://www.pluralsight.com/courses/angular-2-getting-started-update
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Part 1
 
-## Build
+Create a component
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Define a linked template in a component product-list
 
-## Running unit tests
+added bootstrap and font-awesome in dependencies
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+`npm install bootstrap font-awesome`
 
-## Running end-to-end tests
+created product-list.component html and ts
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+added ProductListComponent in app.module.ts declarations
 
-## Further help
+updated product-list.component.html to display products from ProductListComponent.products
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Part 2
+
+Property binding
+
+Handling events with Event binding
+
+Handling Input with 2-way binding
+
+Transforming data with pipes
+
+
+
