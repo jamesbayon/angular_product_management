@@ -46,3 +46,14 @@ created custom pipe to covert - to spaces
 getter-setter for _listFilter
 
 defined performFilter() called onInit and filters product list depending on the input in listFilter
+
+### Part 4
+
+created Star component for rating
+
+used nested star component with @Input() and @Output() decorator
+
+used property binding and event binding for product rating
+
+### Part 5
+
