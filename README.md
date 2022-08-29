@@ -57,3 +57,11 @@ used property binding and event binding for product rating
 
 ### Part 5
 
+create a product data service
+
+moved the product data to the service
+
+inject product data service in the product list constructor
+
+### Part 6
+
