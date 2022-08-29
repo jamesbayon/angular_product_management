@@ -33,5 +33,16 @@ Handling Input with 2-way binding with the filter by box via ngModel binding
 
 Transforming data with pipes - display price with USD 
 
+### Part 3
 
+defined product interface 
 
+encapsulate product-list.component.css
+
+implement lifecycle hook OnInit
+
+created custom pipe to covert - to spaces
+
+getter-setter for _listFilter
+
+defined performFilter() called onInit and filters product list depending on the input in listFilter
