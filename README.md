@@ -25,13 +25,13 @@ updated product-list.component.html to display products from ProductListComponen
 
 ### Part 2
 
-Property binding
+Property binding for images in the product list
 
-Handling events with Event binding
+Handling events with Event binding for show and hide image button
 
-Handling Input with 2-way binding
+Handling Input with 2-way binding with the filter by box via ngModel binding
 
-Transforming data with pipes
+Transforming data with pipes - display price with USD 
 
 
 
