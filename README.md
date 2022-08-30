@@ -65,3 +65,10 @@ inject product data service in the product list constructor
 
 ### Part 6
 
+modify product data service to return an Observable
+
+add exception handling to product data service
+
+add subscribe for the Observable on OnInit
+
+call unsubscribe for the Observable on OnDestroy
